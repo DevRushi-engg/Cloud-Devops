@@ -51,11 +51,3 @@ This folder contains **detailed markdown documentation** for Linux commands orga
 4. **Combine commands** — Use pipes and redirection to build powerful one-liners
 
 ---
-
-## 💡 Example: Building a Data Pipeline
-
-Here's how commands work together:
-
-```bash
-# Extract IPs from access logs, sort them, count occurrences, rank by frequency
-awk '{print $1}' access.log | sort | uniq -c | sort -rn | head -5
