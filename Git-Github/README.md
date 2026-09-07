@@ -14,12 +14,6 @@ and backing up your work remotely.
 
 ## What is in this folder?
 - `commands/` — one file per Git command with syntax, output, and notes
-- `sessions/` — session summaries covering what was taught each day
-
-## Module Structure
-| Day | Topic |
-|-----|-------|
-| Day 1 | Git Foundations — init, add, commit, log, branch, merge |
 
 ## Tools Covered
 - Git
