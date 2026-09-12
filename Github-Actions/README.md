@@ -11,7 +11,6 @@ You define the automation in YAML files stored in your repository.
 
 ## What is in this folder?
 - `workflows/` — example workflow YAML files
-- `sessions/` — session summaries covering what was taught each day
 
 ## Key Concepts
 - **Workflow** — the whole automated process, one `.yml` file
