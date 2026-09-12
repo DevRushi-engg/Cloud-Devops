@@ -1,6 +1,6 @@
 # Debugging Failed Workflows
 
-## What it is
+## What is
 When a workflow shows a red X, reading the logs tells you
 exactly what went wrong and where.
 
