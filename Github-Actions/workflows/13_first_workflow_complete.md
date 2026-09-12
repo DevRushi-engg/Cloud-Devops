@@ -83,5 +83,5 @@ Actions tab
 - A failing workflow caught a problem — it is doing its job
 
 ## When I use this
-This is the starting point for every project — push this first,
+This is starting point for every project — push this first,
 confirm it works, then build from here.
