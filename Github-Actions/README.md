@@ -13,11 +13,6 @@ You define the automation in YAML files stored in your repository.
 - `workflows/` — example workflow YAML files
 - `sessions/` — session summaries covering what was taught each day
 
-## Module Structure
-| Day | Topic |
-|-----|-------|
-| Day 1 | CI/CD concepts, workflow structure, first workflow |
-
 ## Key Concepts
 - **Workflow** — the whole automated process, one `.yml` file
 - **Job** — a group of steps running on one machine
